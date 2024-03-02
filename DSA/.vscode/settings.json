@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "string": "c",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
