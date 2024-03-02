@@ -1,1 +1,1 @@
-# These are the assignments I've completed under my college Studies
+# These are the assignments I've completed under my College Studies
